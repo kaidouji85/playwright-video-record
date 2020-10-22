@@ -1,0 +1,15 @@
+{
+  "name": "playwright-video-record",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node test.js"
+  },
+  "author": "Y.Takeuchi",
+  "license": "ISC",
+  "devDependencies": {
+    "playwright": "^1.5.1",
+    "playwright-cli": "^0.150.0"
+  }
+}
